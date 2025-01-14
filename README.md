@@ -28,8 +28,9 @@ To install and run the StackOverflow Clone project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/stackoverflow-clone.git`
 2. Navigate to the project directory: `cd stackoverflow-clone`
 3. Install the dependencies: `npm install`
-4. Set up the database: [instructions here]
-5. Start the development server: `npm start`
+4. Set up the database: Go to appwrite.io and create an project, obtain ProjectId, ApiKey and hosturl.
+5. update the env file
+6. Start the development server: `npm run dev`
 
 ## Usage
 Once the project is set up and running, you can access the StackOverflow Clone in your web browser. Here are some key actions you can perform:
