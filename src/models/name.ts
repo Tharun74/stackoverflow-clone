@@ -1,0 +1,6 @@
+export const db = "stackoverflow"
+export const questionCollection = "question"
+export const answerCollection = "answer"
+export const voteCollection = "vote"
+export const commentCollection = "comment"
+export const questionAttachmentStorage = "question-attachment"
